@@ -1,15 +1,11 @@
 # React + TypeScript + Vite
 <div className="flex flex-col items-center space-y-4">
   <img
-    src="https://placehold.co/150x150"
+    src="https://github.com/Rodolfo-Chan/userListApp/blob/main/image.png"
     alt="Imagen principal"
     className="rounded-full"
   />
-  <img
-    src="https://placehold.co/100x100"
-    alt="Imagen secundaria"
-    className="rounded-md"
-  />
+ 
 </div>
 
 # UserList App
