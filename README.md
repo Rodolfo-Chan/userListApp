@@ -22,7 +22,7 @@ Aplicación web desarrollada con **React** y **Redux Toolkit** que permite auten
 - ## Installation
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/userlist-app.git
+   git clone https://github.com/Rodolfo-Chan/userListApp.git
    cd userlist-app
 2. **instalar depencias**  
     ```bash
