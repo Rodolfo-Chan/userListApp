@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.details {
+  transition: all 0.3s ease;
+}
+
+.values_list div {
+  transition: all 0.2s ease;
+}
+
+.values_list div:hover {
+  transform: scale(1.1);
+}
